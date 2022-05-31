@@ -1,0 +1,106 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col24944</md:content-id>
+    <md:title>Democracy in America: Curricular Resources for US History Courses</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>4531f4f3-d251-454c-a4a4-540c364fb1f6</md:uuid>
+<md:slug>democracy-in-america-curricular-resources-for-us-history-courses</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m66901"/>
+    <col:subcollection>
+      <md:title>American Founding</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>America's Founding Video Series</md:title>
+          <col:content>
+            <col:module document="m64363"/>
+            <col:module document="m64359"/>
+            <col:module document="m64365"/>
+            <col:module document="m64367"/>
+            <col:module document="m64353"/>
+            <col:module document="m64352"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Liberty, Rights, and the American Founding</md:title>
+          <col:content>
+            <col:module document="m66875"/>
+            <col:module document="m66889"/>
+            <col:module document="m66887"/>
+            <col:module document="m66877"/>
+            <col:module document="m66876"/>
+            <col:module document="m66883"/>
+            <col:module document="m66888"/>
+            <col:module document="m66891"/>
+            <col:module document="m66886"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m64376"/>
+        <col:module document="m66854"/>
+        <col:module document="m66871"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Jefferson and Other Founding Thinkers</md:title>
+      <col:content>
+        <col:module document="m66855"/>
+        <col:module document="m66853"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Trail of Tears</md:title>
+      <col:content>
+        <col:module document="m66869"/>
+        <col:module document="m64968"/>
+        <col:module document="m65130"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Abolitionist Movement and the Civil War</md:title>
+      <col:content>
+        <col:module document="m66866"/>
+        <col:module document="m66846"/>
+        <col:module document="m66893"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Civil Rights Movement</md:title>
+      <col:content>
+        <col:module document="m66867"/>
+        <col:module document="m66868"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The American Civic Tradition</md:title>
+      <col:content>
+        <col:module document="m66870"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social Movements</md:title>
+      <col:content>
+        <col:module document="m66865"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>US History: An Economic Perspective</md:title>
+      <col:content>
+        <col:module document="m64394"/>
+        <col:module document="m64405"/>
+        <col:module document="m64403"/>
+        <col:module document="m64406"/>
+        <col:module document="m64398"/>
+        <col:module document="m66851"/>
+        <col:module document="m66894"/>
+        <col:module document="m66896"/>
+        <col:module document="m64400"/>
+        <col:module document="m64396"/>
+        <col:module document="m66873"/>
+        <col:module document="m64388"/>
+        <col:module document="m64392"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

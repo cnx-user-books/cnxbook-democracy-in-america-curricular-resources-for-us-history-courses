@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Creating a Country</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64352</md:content-id>
+  <md:title>Creating a Country</md:title>
+  <md:abstract>It is 1776 and the Founding Fathers have just committed treason by declaring independence from Britain. They don't have a large military force, aren't set up to fight a multi front war, and are trying to create new institutions based on radical ideas created by philosophers. In this video, Professor Sarah Burns of the Rochester Institute of Technology explains the incredible risks the Founding Fathers took to assert their freedom and encourages us to think through what it means to live in a free society and what we expect from our government.</md:abstract>
+  <md:uuid>d538aa25-c799-48b1-aa19-ae2bac11c4e1</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video of the Neil Armstrong on the Moon">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/KhB5VpId99I"/>
+ </media>
+<caption>"America's Founding, Ep. 6: Creating a Country" by the Institute for Humane Studies</caption></figure></para><para id="eip-71"><title>Description</title>It is 1776 and the Founding Fathers have just committed treason by declaring independence from Britain. They don't have a large military force, aren't set up to fight a multi-front war, and are trying to create new institutions based on radical ideas created by philosophers. In this video, Professor Sarah Burns of the Rochester Institute of Technology explains the incredible risks the Founding Fathers took to assert their freedom and encourages us to think through what it means to live in a free society and what we expect from our government.</para><exercise id="eip-926"><problem id="eip-269">
+  <para id="eip-171">
+    Which philosophy did the Founding Fathers rely on in establishing consent for the government by the people?
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>Radical Whig theory</item>
+<item>Lockean liberalism</item>
+  <item>Divine rights</item>
+  <item>Direct consent</item>
+</list></para>
+</problem>
+
+<solution id="eip-314">
+  <para id="eip-96">a. Radical Whig theory</para></solution>
+</exercise></content>
+
+</document>
